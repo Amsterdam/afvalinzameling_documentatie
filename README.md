@@ -1,0 +1,2 @@
+# afvalinzameling_documentatie
+Functionele- en technische documentatie dataproducten afvalinzameling
