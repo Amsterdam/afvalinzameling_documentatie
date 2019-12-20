@@ -4,11 +4,11 @@
 Deze datasets beschrijven de gegevens over onder- en bovengrondse afvalcontainers, hun locaties en afvalfracties.
 Alle data wordt dagelijks geactualiseerd.
 
-De data wordt in de volgende vormen aangeboden:
+De data wordt in de volgende vormen beschikbaar:
 - rest api (Beta versie)
 - OGC WFS (gebruik GIS software)
-- raadplegen via data en informatie in dataportaal
-- 
+
+  
 ## Productinhoud
 De productinhoud is voor alle vormen gelijk, per vorm kan de data anders zijn geordend.
 
@@ -52,5 +52,14 @@ Het cluster is afgeleid uit een verzameling van 1 of meer containerlocaties en i
 
 
 #### Weeggegevens
-
-
+De wegingen worder per container uitgevoerd. Vanaf 2016 zijn er weeggegevens beschikbaar.
+Een beperking is wanneer er meerdere containers van dezelfde fractie bij elkaar staan niet kan worden geidentificeerd welke weging op welke container betrekking heeft.
+Van de volgende fracties worden wegingen uitgevoerd:
+ - Rest    
+ - Papier  
+ - Plastic 
+ - Glas    
+ - Grof    
+ - PMD     
+ - Textiel 
+ - GFT     
