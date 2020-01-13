@@ -37,17 +37,17 @@
 | textiel                      | \-           | ongewijzigd |
 | gfe                          | \-           | ongewijzigd |
 | kca \(klein chemisch afval\) | \-           | ongewijzigd |
-| site\_coordinaten            | \-           | ongewijzigd |
-| site\_geometrie              | \-           | ongewijzigd |
-| well\_coordinaten            | \-           | ongewijzigd |
-| wegingen\_rest               | \-           | ongewijzigd |
-| wegingen\_glas               | \-           | ongewijzigd |
-| wegingen\_papier             | \-           | ongewijzigd |
-| wegingen\_plastic            | \-           | ongewijzigd |
-| rest\_pand\_distance         | \-           | ongewijzigd |
-| glas\_pand\_distance         | \-           | ongewijzigd |
-| papier\_pand\_distance       | \-           | ongewijzigd |
-| plastic\_pand\_distance      | \-           | ongewijzigd |
-| textiel\_pand\_distance      | \-           | ongewijzigd |
-| kca\_pand\_distance          | \-           | ongewijzigd |
+| site\_coordinaten            | \-           | **onbruikbaar** |
+| site\_geometrie              | \-           | **onbruikbaar** |
+| well\_coordinaten            | \-           | **geen relatie naar clusters** |
+| wegingen\_rest               | \-           | **geen relatie naar clusters** |
+| wegingen\_glas               | \-           | **geen relatie naar clusters** |
+| wegingen\_papier             | \-           | **geen relatie naar clusters** |
+| wegingen\_plastic            | \-           | **geen relatie naar clusters** |
+| rest\_pand\_distance         | \-           | **let op: afstand hemelsbreed, NIET over de weg** |
+| glas\_pand\_distance         | \-           | **let op: afstand hemelsbreed, NIET over de weg** |
+| papier\_pand\_distance       | \-           | **let op: afstand hemelsbreed, NIET over de weg** |
+| plastic\_pand\_distance      | \-           | **let op: afstand hemelsbreed, NIET over de weg** |
+| textiel\_pand\_distance      | \-           | **let op: afstand hemelsbreed, NIET over de weg** |
+| kca\_pand\_distance          | \-           | **let op: afstand hemelsbreed, NIET over de weg** |
 
