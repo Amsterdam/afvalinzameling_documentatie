@@ -3,7 +3,19 @@
 De Web Feature Service (WFS) is primair bedoeld voor het gebruik is GIS applicaties zoals [QGIS](https://www.qgis.org/en/site/) of [ArcGis](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview).
 
 ## WFS layers
-In een GIS wordt laaggeorienteerd gewerkt. In de WFS zijn de volgende lagen gedefinieerd:
+
+**Coordinaatsystemen**
+default crs     :  EPSG:28992
+ondersteunde crs:  EPSG:4326
+ondersteunde crs:  EPSG::3857
+
+**outputformaat**
+Conform beleid dataservices
+
+**Logische operaties**
+Conform standaard dataservices (ComparisonOperator,SpatialOperator,TemporalOperands)
+
+In de WFS zijn de volgende lagen gedefinieerd:
 
 **Afvalcontainers**
  - afval_container : alle afvalcontainers zonder filter
