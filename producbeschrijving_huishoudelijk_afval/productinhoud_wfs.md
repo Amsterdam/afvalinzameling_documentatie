@@ -14,7 +14,6 @@ In een GIS wordt laaggeorienteerd gewerkt. In de WFS zijn de volgende lagen gede
  - afval_container_textiel : alle __actuele__ afvalcontainers van de afvalfractie `Textiel`
 
 **Container Clusters**
- - container_cluster : alle containerclusters zonder filter
  - container_cluster_actueel : alle __actuele__ containerclusters
 
 
@@ -157,4 +156,16 @@ Voor de layers die historie bevatten worden alle kenmerken opgenomen zoals besch
 
 ### Attributen Afvalputten
 
-....
+	bk_afv_containerlocatie
+	id
+	bk_afv_aanbiedlocatie_cluster
+	serienummer
+	status
+	geometrie
+	eigenaar_id
+	eigenaar_naam
+	datum_creatie
+	datum_plaatsing
+	datum_operationeel
+	datum_einde_garantie
+	datum_oplevering
