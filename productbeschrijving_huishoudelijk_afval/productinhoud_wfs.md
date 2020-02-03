@@ -15,7 +15,7 @@ Conform beleid dataservices
 **Logische operaties**
 Conform standaard dataservices (ComparisonOperator,SpatialOperator,TemporalOperands)
 
-In de WFS zijn de volgende lagen gedefinieerd:
+In de WFS zijn de lagen  zoals onderstaand gedefinieerd. De datatypen komen in hoofdlijn overeen met de datatypen van de rest-api.
 
 **Afvalcontainers**
  - afval_container : alle afvalcontainers zonder filter
