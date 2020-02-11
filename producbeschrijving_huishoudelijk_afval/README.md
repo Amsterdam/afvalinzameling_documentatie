@@ -6,11 +6,12 @@ Alle data wordt dagelijks geactualiseerd.
 
 De data wordt in de volgende vormen beschikbaar:
 - rest api (Beta versie)
+- tekengescheiden bestand
 - OGC WFS (gebruik GIS software)
 
   
 ## Productinhoud
-De productinhoud is voor alle vormen gelijk, per vorm kan de data anders zijn geordend.
+De productinhoud is voor alle vormen gelijk, per vorm kan de data anders zijn geordend. Op dit moment worden alleen de laatst bekende (actuele) gegevens beschikbaar gesteld. 
 
  - [productinhoud afvalcontainers](productinhoud_afvalcontainers.md)
  - [productinhoud container clusters](productinhoud_afvalcontainer_clusters.md)
