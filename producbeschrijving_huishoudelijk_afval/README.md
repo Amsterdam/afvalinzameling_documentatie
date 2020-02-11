@@ -31,6 +31,14 @@ Het gegevensmodel representeert de samenhang tussen objectklassen uit het domein
 De samenhang tussen de objecten is gebaseerd op basis van thematische voorwaarden, ruimte en tijd (historie).
 Voor een grafische weergave van het model zie [logisch gegevensmodel integratie](logisch_gegevensmodel_integratie.md)
 
+## Beschikbare productvormen
+
+# Tekengescheiden bestand
+Voor elke 'tabel' in de dataset is een csv bestand beschikbaar. Deze bestanden voldoen aan de volgende specificaties:
+- inhoud: zie productinhoud
+- karakterset: UTF-8
+- scheidingsteken: semicolon `;`
+- kopregel: Ja
 
 ### Definities objectklassen
 
