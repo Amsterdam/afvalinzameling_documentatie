@@ -6,11 +6,12 @@ Alle data wordt dagelijks geactualiseerd.
 
 De data wordt in de volgende vormen beschikbaar:
 - rest api (Beta versie)
+- tekengescheiden bestand
 - OGC WFS (gebruik GIS software)
 
   
 ## Productinhoud
-De productinhoud is voor alle vormen gelijk, per vorm kan de data anders zijn geordend.
+De productinhoud is voor alle vormen gelijk, per vorm kan de data anders zijn geordend. Op dit moment worden alleen de laatst bekende (actuele) gegevens beschikbaar gesteld. 
 
  - [productinhoud afvalcontainers](productinhoud_afvalcontainers.md)
  - [productinhoud container clusters](productinhoud_afvalcontainer_clusters.md)
@@ -31,8 +32,16 @@ Het gegevensmodel representeert de samenhang tussen objectklassen uit het domein
 De samenhang tussen de objecten is gebaseerd op basis van thematische voorwaarden, ruimte en tijd (historie).
 Voor een grafische weergave van het model zie [logisch gegevensmodel integratie](logisch_gegevensmodel_integratie.md)
 
+## Beschikbare productvormen
 
-### Definities objectklassen
+### Tekengescheiden bestand
+Voor elke 'tabel' in de dataset is een csv bestand beschikbaar. Deze bestanden voldoen aan de volgende specificaties:
+- inhoud: zie productinhoud
+- karakterset: UTF-8
+- scheidingsteken: semicolon `;`
+- kopregel: Ja
+
+## Definities objectklassen
 
 
 #### afvalcontainer
