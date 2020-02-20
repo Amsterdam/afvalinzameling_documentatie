@@ -34,6 +34,29 @@ Voor een grafische weergave van het model zie [logisch gegevensmodel integratie]
 
 ## Beschikbare productvormen
 
+### rest api
+De rest api is aan te roepen met de url:
+ - afvalclusters: "https://api.data.amsterdam.nl/vsd/afvalclusters/"
+ - afvalcontainers: "https://api.data.amsterdam.nl/vsd/afvalcontainers/"
+ - afvalwegingen: "https://api.data.amsterdam.nl/vsd/afvalwegingen/"
+
+**Filtering op de rest api**
+Op de drie endpoints is het mogelijk om op elk datumveld te filteren. 
+Filtering is op basis van de onderstaande parametersgeimplementeerd:
+<naam_datumveld>=Exacte datum
+<naam_datumveld>__lte=Lager dan exacte datum
+<naam_datumveld>__gte=Groter dan exacte datum
+
+Voorbeeldaanroep voor wegingen:
+Alle wegingen op een bepaalde datum:
+https://api.data.amsterdam.nl/vsd/afvalwegingen/?weging_datum_weginge=2020-02-17
+
+Alle wegingen op __voor__ bepaalde datum:
+https://api.data.amsterdam.nl/vsd/afvalwegingen/?weging_datum_weging__lte=2020-02-17
+
+Alle wegingen __na__ een bepaalde datum:
+https://api.data.amsterdam.nl/vsd/afvalwegingen/?weging_datum_weging__gte=2020-02-17
+
 ### Tekengescheiden bestand
 Voor elke 'tabel' in de dataset is een csv bestand beschikbaar. Deze bestanden voldoen aan de volgende specificaties:
 - inhoud: zie productinhoud
