@@ -34,7 +34,7 @@ Voor een grafische weergave van het model zie [logisch gegevensmodel integratie]
 
 ## Beschikbare productvormen
 
-### rest api
+### Rest api
 De rest api is aan te roepen met de url:
  - afvalclusters: https://api.data.amsterdam.nl/vsd/afvalclusters/
  - afvalcontainers: https://api.data.amsterdam.nl/vsd/afvalcontainers/
@@ -58,6 +58,8 @@ Alle wegingen op __voor__ bepaalde datum: \
 
 Alle wegingen __na__ een bepaalde datum: \
  https://api.data.amsterdam.nl/vsd/afvalwegingen/?weging_datum_weging__gte=2020-02-17
+
+<br>
 
 ### Tekengescheiden bestand
 Voor elke 'tabel' in de dataset is een csv bestand beschikbaar. Deze bestanden voldoen aan de volgende specificaties:
