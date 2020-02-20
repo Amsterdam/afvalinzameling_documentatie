@@ -40,7 +40,7 @@ De rest api is aan te roepen met de url:
  - afvalcontainers: https://api.data.amsterdam.nl/vsd/afvalcontainers/
  - afvalwegingen: https://api.data.amsterdam.nl/vsd/afvalwegingen/
 
-**Filtering op de rest api**
+**Filtering op de rest api** \
 Op de drie endpoints is het mogelijk om op elk datumveld te filteren. 
 Filtering is op basis van de onderstaande parameters geimplementeerd:
 
