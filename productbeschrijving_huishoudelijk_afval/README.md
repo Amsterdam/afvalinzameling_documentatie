@@ -51,7 +51,7 @@ Filtering is op basis van de onderstaande parameters geimplementeerd:
 Voorbeeldaanroep voor wegingen
 
 Alle wegingen op een bepaalde datum: \
- https://api.data.amsterdam.nl/vsd/afvalwegingen/?weging_datum_weginge=2020-02-17
+ https://api.data.amsterdam.nl/vsd/afvalwegingen/?weging_datum_wegingen=2020-02-17
 
 Alle wegingen op __voor__ bepaalde datum: \
  https://api.data.amsterdam.nl/vsd/afvalwegingen/?weging_datum_weging__lte=2020-02-17
