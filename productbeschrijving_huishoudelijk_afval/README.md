@@ -48,7 +48,7 @@ Filtering is op basis van de onderstaande parameters geimplementeerd:
  - <naam_datumveld>__lte=Lager dan exacte datum
  - <naam_datumveld>__gte=Groter dan exacte datum
 
-Voorbeeldaanroep voor wegingen
+**Voorbeeldaanroep**
 
 Alle wegingen op een bepaalde datum: \
  https://api.data.amsterdam.nl/vsd/afvalwegingen/?weging_datum_wegingen=2020-02-17
