@@ -59,6 +59,9 @@ Alle wegingen op __voor__ bepaalde datum: \
 Alle wegingen __na__ een bepaalde datum: \
  https://api.data.amsterdam.nl/vsd/afvalwegingen/?weging_datum_weging__gte=2020-02-17
 
+Voorbeeldaanroep containers op plaatsingsdatum: \
+ https://api.data.amsterdam.nl/vsd/afvalcontainers/?container_datum_plaatsing__gte=2020-02-17
+
 <br>
 
 ### Tekengescheiden bestand
