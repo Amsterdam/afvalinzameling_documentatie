@@ -3,9 +3,9 @@
 Een deel van de gegevens betreffende ondergronds afvalcontainers zijn opgenomen in de kaart van data.amsterdam.nl
 De volgende kaarlagen zijn beschikbaar.
 
-| **Thema_afval**                      |                                                                       |
-|--------------------------------------|-----------------------------------------------------------------------|
-| afvalcontainers                      | opmerking                                                             |
+## afvalcontainers
+
+| **kaartlaag**                        | opmerking                                                             |
 |--------------------------------------|-----------------------------------------------------------------------|
 | Restafval                            | bestaand                                                              |
 | Papier                               | bestaand                                                              |
@@ -17,8 +17,11 @@ De volgende kaarlagen zijn beschikbaar.
 | onbekend                             | nieuw                                                                 |
 | PMD                                  | nieuw                                                                 |
 | Grof                                 | nieuw                                                                 |
-|                                      |                                                                       |
-| afval_loopafstanden                  | opmerking                                                             |
+
+
+## afval loopafstanden pand
+
+| **kaartlaag**                        | opmerking                                                             |
 |--------------------------------------|-----------------------------------------------------------------------|
 | Restafval [0-30-90-120-150-210-1000] | Zie uitwerking afstandsklassen, nog valideren met frequentieverdeling |
 | Papier  [0-30-90-120-150-210-1000]   | Zie uitwerking afstandsklassen, nog valideren met frequentieverdeling |
