@@ -37,10 +37,11 @@ De volgende kaarlagen zijn beschikbaar.
 | container_id       | Uniek identificerend kenmerk van het object                                  | metadata              |
 | cluster_id         | Uniek identificerend kenmerk van cluster waaraan de container is gerelateerd | metadata              |
 | datum_plaatsing    | Datum waarop het object op de locatie is geplaatst                           | metadata              |
-| datum_operationeel | Datum dat de container operationeel is voor het aanbieden van afval          | metadata              |
+| datum__operationeel| Datum dat de container operationeel is voor het aanbieden van afval          | metadata              |
 | afvalfractie       | Type afvalfractie waarvoor de container is bedoeld                           | functioneel attribuut |
-| volume container   | inhoud container in m3                                                       | functioneel attribuut |
-| container type     | type container volgens de fabricant                                          | functioneel attribuut |
+| volume_container   | inhoud container in m3                                                       | functioneel attribuut |
+| container_type     | type container volgens de fabricant                                          | functioneel attribuut |
+| container_status   | Status van de container {0 - inactief ,1 - actief ,2 - gepland}              | functioneel attribuut |
 
 ## Attributen loopafstanden pand
 
@@ -60,23 +61,23 @@ De onderstaande geeft de indeling van deze klassen weer.
 
 | categorie_omschrijving | categorie_afstand_vanaf | categorie_afstand_tot |
 |------------------------|-------------------------|-----------------------|
-| uitstekend             | 0                       | 30                    |
-| zeer goed              | 30                      | 90                    |
-| goed                   | 90                      | 120                   |
-| voldoende              | 120                     | 150                   |
-| onvoldoende            | 150                     | 210                   |
-| zeer onvoldoende       | 210                     | 1000                  |
-| buiten bereik          | 1000                    | -                     |
-| geen afstand           | null                    | null                  |
+| -                      | 0                       | 30                    |
+| -                      | 30                      | 90                    |
+| -                      | 90                      | 120                   |
+| -                      | 120                     | 150                   |
+| Omslagpunt: 150M       | 150                     | 210                   |
+| -                      | 210                     | 1000                  |
+| -                      | 1000                    | -                     |
+| -                      | null                    | null                  |
 
 
 **Voor de afvalfractie textiel**
 | categorie_omschrijving | categorie_afstand_vanaf | categorie_afstand_tot |
 |------------------------|-------------------------|-----------------------|
-| uitstekend             | 0                       | 90                    |
-| zeer goed              | 90                      | 180                   |
-| goed                   | 180                     | 300                   |
-| voldoende              | 300                     | 370                   |
-| onvoldoende            | 480                     | 100                   |
-| zeer onvoldoende       | 1000                    | -                     |
-| geen afstand           | null                    | null                  |
+| -                      | 0                       | 90                    |
+| -                      | 90                      | 180                   |
+| -                      | 180                     | 350                   |
+| Omslagpunt: 350 M      | 350                     | 370                   |
+| -                      | 480                     | 100                   |
+| -                      | 1000                    | -                     |
+| -                      | null                    | null                  |
