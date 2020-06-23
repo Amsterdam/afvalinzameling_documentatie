@@ -83,3 +83,15 @@ De onderstaande geeft de indeling van deze klassen weer.
 | -                      | 480                     | 100                   |
 | -                      | 1000                    | -                     |
 | -                      | null                    | null                  |
+
+## Voorstel van power users A&G
+afstanden in meter (rest, glas, papier,plastic)
+0-30          heel donker groen
+30-60         donker groen
+60-90         groen
+90 120        licht groen
+120 150       lichter groen
+150 180       oranje
+180 210       rood
+meer dan 210  Grijs
+En gebruik dan voor groter dan 210m maar grijs. (dat is een hele handige oplossing.
