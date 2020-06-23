@@ -45,13 +45,14 @@ De volgende kaarlagen zijn beschikbaar.
 
 ## Attributen loopafstanden pand
 
-| attribuut          | omschrijving                                                        | categorie             |
-|--------------------|---------------------------------------------------------------------|-----------------------|
-| object_id          | Uniek identificerend kenmerk van het object                         | metadata              |
-| peildatum_gegevens | datum afleiding loopafstand                                         | metadata              |
-| object_type        | type obect {pand, ligplaats, standplaats}                           | functioneel attribuut |
-| afvalfractie       | Type afvalfractie waarvoor de container is bedoeld                  | functioneel attribuut |
-| loopafstand        | berekende afstand over de weg in meters naar meest nabije container | functioneel attribuut |
+| attribuut          | omschrijving                                                                 | categorie             |
+|--------------------|------------------------------------------------------------------------------|-----------------------|
+| object_id          | Uniek identificerend kenmerk van het object                                  | metadata              |
+| cluster_id         | Uniek identificerend kenmerk van cluster waaraan de container is gerelateerd | metadata              |
+| peildatum_gegevens | datum afleiding loopafstand                                                  | metadata              |
+| object_type        | type obect {pand, ligplaats, standplaats}                                    | functioneel attribuut |
+| afvalfractie       | Type afvalfractie waarvoor de container is bedoeld                           | functioneel attribuut |
+| loopafstand        | berekende afstand over de weg in meters naar meest nabije container          | functioneel attribuut |
 
 ## Indeling loopafstanden
 Uiteraard bestaat er variatie in de loopafstanden. Deze afstanden zijn verdeel in zgn. klassen.
