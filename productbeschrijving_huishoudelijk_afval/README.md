@@ -17,8 +17,8 @@ De productinhoud is voor alle vormen gelijk, per vorm kan de data anders zijn ge
  - [productinhoud container clusters](productinhoud_afvalcontainer_clusters.md)
  - [productinhoud weeggegevens](productinhoud_afval_wegingen.md)
  - [productinhoud loopafstanden panden, stand- en ligplaatsen](productinhoud_afval_loopafstand_bag_object.md)
- - [productinhoud loopafstanden adres](productinhoud_afval_loopafstand_adres.md)
- - [Kaartlagen op data.amsterdam.nl](kaartlagen_website.md)
+ - [productinhoud loopafstanden adres](productinhoud_afval_loopaf**stand_adres.md)
+ - **[Kaartlagen op data.amsterdam.nl](kaartlagen_website.md)**
 
 ## Populatiekarakteristieken
 De producten die beschikbaar zijn bevatten actuele gegevens en (nog) geen historie. De weeggegevens zijn hierbij de uitzondering, deze bevatten alle wegingen vanaf 1 januari 2016.
