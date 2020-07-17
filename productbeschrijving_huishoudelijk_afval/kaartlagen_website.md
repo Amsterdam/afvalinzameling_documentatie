@@ -44,6 +44,10 @@ De volgende kaarlagen zijn beschikbaar.
 | container_type     | type container volgens de fabricant                                          | functioneel attribuut |
 | container_status   | Status van de container {0 - inactief ,1 - actief ,2 - gepland}              | functioneel attribuut |
 
+Opmerking:
+De inactieve en geplande containers niet opnemen en weergeven voor publiek.
+Voor ambtenaren mogen de inactieve en geplande containers wel zichtbaar zijn in een aparte laag.
+
 ## Attributen loopafstanden pand
 
 | attribuut          | omschrijving                                                                 | categorie             |
