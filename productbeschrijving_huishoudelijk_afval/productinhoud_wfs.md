@@ -1,4 +1,4 @@
-# Specificatie Web Feature Service << CONCEPT >>
+# Specificatie Web Feature Service
 
 De Web Feature Service (WFS) is primair bedoeld voor het gebruik is GIS applicaties zoals [QGIS](https://www.qgis.org/en/site/) of [ArcGis](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview).
 
