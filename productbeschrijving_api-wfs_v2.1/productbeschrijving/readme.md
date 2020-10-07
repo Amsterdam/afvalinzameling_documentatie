@@ -1,5 +1,3 @@
-Wegens opmerking van Herberth 1072 en 1071 aanpassen
-
 # Productbeschrijving huishoudelijk afval
 
 ## Context
