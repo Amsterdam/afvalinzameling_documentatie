@@ -98,4 +98,3 @@ afstanden in meter (rest, glas, papier,plastic)
 150 180       oranje
 180 210       rood
 meer dan 210  Grijs
-En gebruik dan voor groter dan 210m maar grijs. (dat is een hele handige oplossing.
