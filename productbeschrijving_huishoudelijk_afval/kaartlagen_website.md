@@ -65,29 +65,28 @@ De onderstaande geeft de indeling van deze klassen weer.
 
 **Voor de afvalfracties restafval, papier, glas en plastic**
 
-| categorie_omschrijving | categorie_afstand_vanaf | categorie_afstand_tot |
-|------------------------|-------------------------|-----------------------|
-| -                      | 0                       | 30                    |
-| -                      | 30                      | 90                    |
-| -                      | 90                      | 120                   |
-| -                      | 120                     | 150                   |
-| Omslagpunt: 150M       | 150                     | 210                   |
-| -                      | 210                     | 1000                  |
-| -                      | 1000                    | -                     |
-| -                      | null                    | null                  |
+| categorie_omschrijving | categorie_afstand_vanaf | categorie_afstand_tot | Kleur htmlcode |
+|------------------------|-------------------------|-----------------------|----------------|
+| -                      | 0                       | 30                    | #327230 |
+| -                      | 30                      | 90                    | #4daf4a |
+| -                      | 90                      | 120                   | #9daf9d |
+| -                      | 120                     | 150                   | #ff7f00 |
+| Omslagpunt: 150M       | 150                     | 210                   | #ff4b00 |
+| -                      | 210                     | 1000                  | #6e6e6e |
+| -                      | null                    | null                  | #cccccc |
 
 ![Legenda loopafstand](afb/legenda_loopafstanden_rest_glas_papier_plastic.png)
 
 **Voor de afvalfractie textiel**
-| categorie_omschrijving | categorie_afstand_vanaf | categorie_afstand_tot |
-|------------------------|-------------------------|-----------------------|
-| -                      | 0                       | 90                    |
-| -                      | 90                      | 180                   |
-| -                      | 180                     | 350                   |
-| Omslagpunt: 350 M      | 350                     | 370                   |
-| -                      | 370                     | 480                   |
-| -                      | 480                     | 1000                  |
-| -                      | null                    | null                  |
+| categorie_omschrijving | categorie_afstand_vanaf | categorie_afstand_tot | Kleur htmlcode |
+|------------------------|-------------------------|-----------------------|----------------|
+| -                      | 0                       | 90                    | #327230 |
+| -                      | 90                      | 180                   | #4daf4a |
+| -                      | 180                     | 350                   | #9daf9d |
+| Omslagpunt: 350 M      | 350                     | 370                   | #ff7f00 |
+| -                      | 370                     | 480                   | #ff4b00 |
+| -                      | 480                     | 1000                  | #6e6e6e |
+| -                      | null                    | null                  | #cccccc |
 
 ![Legenda loopafstand](afb/legenda_loopafstand_textiel.png)
 
