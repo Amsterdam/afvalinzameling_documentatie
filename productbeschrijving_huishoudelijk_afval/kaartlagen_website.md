@@ -27,7 +27,7 @@ De volgende kaarlagen zijn beschikbaar.
 | Papier  [0-30-90-120-150-210-1000]   | Zie uitwerking afstandsklassen, nog valideren met frequentieverdeling |
 | Glas  [0-30-90-120-150-210-1000]     | Zie uitwerking afstandsklassen, nog valideren met frequentieverdeling |
 | Plastic  [0-30-90-120-150-210-1000]  | Zie uitwerking afstandsklassen, nog valideren met frequentieverdeling |
-| Textiel  [0-90-180-350-480-1000]     | Zie uitwerking afstandsklassen, nog valideren met frequentieverdeling |
+| Textiel  [0-90-180-350-370-480-1000]     | Zie uitwerking afstandsklassen, nog valideren met frequentieverdeling |
 
 
 ## Attributen kaartlaag afvalcontainers
