@@ -76,6 +76,7 @@ De onderstaande geeft de indeling van deze klassen weer.
 | -                      | 1000                    | -                     |
 | -                      | null                    | null                  |
 
+![Legenda loopafstand](afb/legenda_loopafstanden_rest_glas_papier_plastic.png)
 
 **Voor de afvalfractie textiel**
 | categorie_omschrijving | categorie_afstand_vanaf | categorie_afstand_tot |
@@ -84,17 +85,19 @@ De onderstaande geeft de indeling van deze klassen weer.
 | -                      | 90                      | 180                   |
 | -                      | 180                     | 350                   |
 | Omslagpunt: 350 M      | 350                     | 370                   |
-| -                      | 480                     | 100                   |
-| -                      | 1000                    | -                     |
+| -                      | 370                     | 480                   |
+| -                      | 480                     | 1000                  |
 | -                      | null                    | null                  |
 
+![Legenda loopafstand](afb/legenda_loopafstand_textiel.png)
+
 ## Voorstel van power users A&G
-afstanden in meter (rest, glas, papier,plastic)
-0-30          heel donker groen
-30-60         donker groen
-60-90         groen
-90 120        licht groen
-120 150       lichter groen
-150 180       oranje
-180 210       rood
-meer dan 210  Grijs
+afstanden in meter (rest, glas, papier,plastic)  
+0-30          heel donker groen  
+30-60         donker groen  
+60-90         groen  
+90 120        licht groen  
+120 150       lichter groen  
+150 180       oranje  
+180 210       rood  
+meer dan 210  Grijs  
