@@ -37,7 +37,7 @@ De volgende kaarlagen zijn beschikbaar.
 | container_id       | Uniek identificerend kenmerk van het object                                  | metadata              |
 | cluster_id         | Uniek identificerend kenmerk van cluster waaraan de container is gerelateerd | metadata              |
 | datum_plaatsing    | Datum waarop het object op de locatie is geplaatst                           | metadata              |
-| datum__operationeel| Datum dat de container operationeel is voor het aanbieden van afval          | metadata              |
+| datum_operationeel| Datum dat de container operationeel is voor het aanbieden van afval          | metadata              |
 | afvalfractie       | Type afvalfractie waarvoor de container is bedoeld                           | functioneel attribuut |
 | volume_container   | inhoud container in m3                                                       | functioneel attribuut |
 | container_type     | type container volgens de fabricant                                          | functioneel attribuut |
