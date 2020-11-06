@@ -53,7 +53,7 @@ Voor ambtenaren mogen de inactieve en geplande containers wel zichtbaar zijn in 
 |--------------------|------------------------------------------------------------------------------|-----------------------|
 | object_id          | Uniek identificerend kenmerk van het object                                  | metadata              |
 | cluster_id         | Uniek identificerend kenmerk van cluster waaraan de container is gerelateerd | metadata              |
-| wijzigingsdatum_dp | datum afleiding loopafstand                                                  | metadata              |
+| peildatum_gegevens | datum afleiding loopafstand                                                  | metadata              |
 | object_type        | type obect {pand, ligplaats, standplaats}                                    | functioneel attribuut |
 | afvalfractie       | Type afvalfractie waarvoor de container is bedoeld                           | functioneel attribuut |
 | loopafstand        | berekende afstand over de weg in meters naar meest nabije container          | functioneel attribuut |
