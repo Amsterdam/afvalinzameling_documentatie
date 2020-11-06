@@ -38,7 +38,6 @@ De volgende kaarlagen zijn beschikbaar.
 | cluster_id         | Uniek identificerend kenmerk van cluster waaraan de container is gerelateerd | metadata              |
 | datum_plaatsing    | Datum waarop het object op de locatie is geplaatst                           | metadata              |
 | datum__operationeel| Datum dat de container operationeel is voor het aanbieden van afval          | metadata              |
-| wijzigingsdatum_dp | datum afleiding loopafstand                                                  | metadata              |
 | afvalfractie       | Type afvalfractie waarvoor de container is bedoeld                           | functioneel attribuut |
 | volume_container   | inhoud container in m3                                                       | functioneel attribuut |
 | container_type     | type container volgens de fabricant                                          | functioneel attribuut |
@@ -54,7 +53,7 @@ Voor ambtenaren mogen de inactieve en geplande containers wel zichtbaar zijn in 
 |--------------------|------------------------------------------------------------------------------|-----------------------|
 | object_id          | Uniek identificerend kenmerk van het object                                  | metadata              |
 | cluster_id         | Uniek identificerend kenmerk van cluster waaraan de container is gerelateerd | metadata              |
-| peildatum_gegevens | datum afleiding loopafstand                                                  | metadata              |
+| wijzigingsdatum_dp | datum afleiding loopafstand                                                  | metadata              |
 | object_type        | type obect {pand, ligplaats, standplaats}                                    | functioneel attribuut |
 | afvalfractie       | Type afvalfractie waarvoor de container is bedoeld                           | functioneel attribuut |
 | loopafstand        | berekende afstand over de weg in meters naar meest nabije container          | functioneel attribuut |
