@@ -14,9 +14,6 @@ De volgende kaarlagen zijn beschikbaar.
 | Textiel                              | bestaand                                                              |
 | GFE                                  | bestaand                                                              |
 | Brood                                | nieuw                                                                 |
-| onbekend                             | nieuw                                                                 |
-| PMD                                  | nieuw                                                                 |
-| Grof                                 | nieuw                                                                 |
 
 
 ## afval loopafstanden pand
