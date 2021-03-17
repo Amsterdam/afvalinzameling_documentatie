@@ -5,4 +5,4 @@ Functionele- en technische documentatie dataproducten afvalinzameling
 
 - [productinhoud API/WFS v2.1](productbeschrijving_api-wfs_v2.1/productbeschrijving/readme.md)  
 - [veranderingen in api v2.1 t.o.v. v2.0](api_veranderingen_2.1_vs_2.0/api_veranderingen_2.1_vs_2.0.md)
-- [veranderingen in api v2.1 (17-03-2021)](verandering API 2.1 (17-03-2021).md)
+- [veranderingen in api v2.1 (17-03-2021)](verandering API 2.1 (17-03-2021)/verandering API 2.1 (17-03-2021).md)
