@@ -7,18 +7,18 @@ container
 
 | container                 | nieuw?   | Containerlocatie | nieuwe? | Containertype | nieuw? |
 |------------------------|----------------|----------------|--------------|-------------|--------------| 
-|container_id            |   nee |containerlocatie_id         |nee  |containertype_id|nee|        12      |   
-|container_id_nummer    |       nee   |containerlocatie_serienummer | nee |  |       |                         
-|container_serienummer  | nee    |containerlocatie_status| nee|              |             |              |                 
-|container_geadopteerd_ind  | nee |containerlocatie_geometrie|nee|              |             |              |  
-|container_eigenaar_id  | nee     |containerlocatie_wgs84_lon|nee|              |             |              |  
-container_eigenaar_naam  | nee   |containerlocatie_wgs84_lat|nee|              |             |              |  
-container_status  | nee          |containerlocatie_eigenaar_id|nee|              |             |              |  
-container_fractie_code  | nee    |containerlocatie_eigenaar_naam|nee|              |             |              |  
-container_fractie_omschrijving|nee|containerlocatie_datum_creatie|nee|              |             |              |  
-container_datum_creatie  | nee   |containerlocatie_datum_plaatsing|nee|              |             |              |  
-container_datum_plaatsing  | nee |containerlocatie_datum_oplevering|nee|              |             |              |  
-container_datum_operationeel  | nee|ind_bevat_container|nee|              |             |              |  
+|container_id            |   nee |containerlocatie_id         |nee  |containertype_id|nee|             |   
+|container_id_nummer    |       nee   |containerlocatie_serienummer | nee |containertype_naam|nee       |                         
+|container_serienummer  | nee    |containerlocatie_status| nee|containertype_volume_m3|nee|              |                 
+|container_geadopteerd_ind  | nee |containerlocatie_geometrie|nee|containertype_gewicht_kg|nee|              |  
+|container_eigenaar_id  | nee     |containerlocatie_wgs84_lon|nee|containertype_wijzigingsdatum_dp|nee|              |  
+container_eigenaar_naam  | nee   |containerlocatie_wgs84_lat|nee|containertype_verwijderd_dp|nee|              |  
+container_status  | nee          |containerlocatie_eigenaar_id|nee|containertype_artikelcode|ja|              |  
+container_fractie_code  | nee    |containerlocatie_eigenaar_naam|nee|containertype_hijskraantype_naam|ja|              |  
+container_fractie_omschrijving|nee|containerlocatie_datum_creatie|nee|containertype_container_type|ja|              |  
+container_datum_creatie  | nee   |containerlocatie_datum_plaatsing|nee|containertype_compressie_container_ind|ja|              |  
+container_datum_plaatsing  | nee |containerlocatie_datum_oplevering|nee|containertype_compressiefactor|ja|              |  
+container_datum_operationeel  | nee|ind_bevat_container|nee|containertype_hijskraan_opmerking|ja|              |  
 container_datum_aflopen_garantie  | nee   |containerlocatie_datum_operationeel|nee|              |             |              |  
 container_datum_oplevering  | nee|containerlocatie_datum_einde_garantie|nee|              |             |              |  
 containerlocatie_id  | nee       |gbd_buurt_id|nee|              |             |              |  
