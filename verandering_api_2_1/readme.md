@@ -7,7 +7,7 @@ container
 
 | container                 | nieuw?   | Containerlocatie | nieuwe? | Containertype | nieuw? |
 |------------------------|----------------|----------------|--------------|-------------|--------------| 
-|container_id            |   nee |containerlocatie_id         |nee  |             |             |              |   
+|container_id            |   nee |containerlocatie_id         |nee  |containertype_id|nee|        12      |   
 |container_id_nummer    |       nee   |containerlocatie_serienummer | nee |  |       |                         
 |container_serienummer  | nee    |containerlocatie_status| nee|              |             |              |                 
 |container_geadopteerd_ind  | nee |containerlocatie_geometrie|nee|              |             |              |  
