@@ -31,8 +31,8 @@ gbd_buurt_code  | nee            |containerlocatie_datum_wijziging|ja|          
 gbd_buurt_id  | nee              |containerlocatie_opmerking|ja|              |             |              |  
 bag_openbareruimte_id  | nee     |containerlocatie_end_of_life|ja|              |             |              |  
 bag_hoofdadres_verblijfsobject_id  |nee|containerlocatie_eigenaarschap|ja|              |             |              |  
-bag_nummeraanduiding_id  | nee   |        |containerlocatie_eigenaarschap_opmerking|ja|             |              |  
-container_wijzigingsdatum_dp|nee |        |containerlocatie_type_artikelcode|ja|             |              |  
+bag_nummeraanduiding_id  | nee   |containerlocatie_eigenaarschap_opmerking|ja|             |              |  |
+container_wijzigingsdatum_dp|nee |containerlocatie_type_artikelcode|ja|             |              |  |
 container_verwijderd_dp  | nee   |        |                |              |             |              |  
 container_ral_kleur_naam  | ja   |        |                |              |             |              |  
 container_ral_kleur_code  | ja   |        |                |              |             |              |  
