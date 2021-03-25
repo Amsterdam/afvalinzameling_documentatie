@@ -5,7 +5,7 @@ De huishoudelijk afval API v2.1 wordt uitgebreid met een aantal attributen in de
 
 container
 
-| tabel                  | nieuw   | n |
+| tabel                  | nieuw   |
 |------------------------|----------------|-------------|
 |container_id               ja
 |container_id_nummer           nee                                   
