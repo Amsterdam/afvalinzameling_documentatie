@@ -6,8 +6,8 @@ De huishoudelijk afval API v2.1 wordt uitgebreid met een aantal attributen in de
 container
 
 | container                 | nieuw?   | Containerlocatie | nieuwe? | Containertype | nieuw? |
-|------------------------|----------------|----------------|--------------|-------------|--------------|
-|container_id            |   nee |        |                |              |             |              |   
+|------------------------|----------------|----------------|--------------|-------------|--------------| 
+|container_id            |   nee |        | containerlocatie_id |    nee          |             |              |   
 |container_id_nummer    |       nee       |                            
 |container_serienummer  | nee    |        |                |              |             |              |                 
 |container_geadopteerd_ind  | nee |        |                |              |             |              |  
@@ -48,3 +48,4 @@ container_eigenaarschap  | ja    |        |                |              |     
 container_eigenaarschap_opmerking  | ja   |        |                |              |             |              |  
 container_opmerking  | ja        |        |                |              |             |              |  
      
+
