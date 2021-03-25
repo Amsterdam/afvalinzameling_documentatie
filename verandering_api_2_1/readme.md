@@ -7,44 +7,44 @@ container
 
 | tabel                  | nieuw   | 
 |------------------------|----------------|
-|container_id            |   ja |
+|container_id            |   nee |
 |container_id_nummer    |       nee       |                            
-|container_serienummer     | |                  
-container_geadopteerd_ind | |
-container_eigenaar_id |  |
-container_eigenaar_naam  |    |
-container_status  |    |
-container_fractie_code  |    |
-container_fractie_omschrijving  |    |
-container_datum_creatie  |    |
-container_datum_plaatsing  |    |
-container_datum_operationeel  |    |
-container_datum_aflopen_garantie  |    |
-container_datum_oplevering  |    |
-containerlocatie_id  |    |
-container_geometrie  |    |
-container_wgs84_lon  |    |
-container_wgs84_lat  |    |
-cluster_id  |    |
-containertype_id  |    |
-gbd_buurt_code  |    |
-gbd_buurt_id  |    |
-bag_openbareruimte_id  |    |
-bag_hoofdadres_verblijfsobject_id  |    |
-bag_nummeraanduiding_id  |    |
-container_wijzigingsdatum_dp  |    |
-container_verwijderd_dp  |    |
-container_ral_kleur_naam  |    |
-container_ral_kleur_code  |    |
-container_ral_kleur_hexcode  |    |
-container_chip_nummber  |    |
-container_unit_card_lezer_id  |    |
-container_kleur  |    |
-container_mark  |    |
-container_datum_vervanging  |    |
-container_datum_wijziging  |    |
-container_end_of_life  |    |
-container_eigenaarschap  |    |
-container_eigenaarschap_opmerking  |    |
-container_opmerking                |              |
+|container_serienummer  | nee   |               
+container_geadopteerd_ind  | nee   |
+container_eigenaar_id  | nee   |
+container_eigenaar_naam  | nee   |
+container_status  | nee   |
+container_fractie_code  | nee   |
+container_fractie_omschrijving  | nee   |
+container_datum_creatie  | nee   |
+container_datum_plaatsing  | nee   |
+container_datum_operationeel  | nee   |
+container_datum_aflopen_garantie  | nee   |
+container_datum_oplevering  | nee   |
+containerlocatie_id  | nee   |
+container_geometrie  | nee   |
+container_wgs84_lon  | nee   |
+container_wgs84_lat  | nee   |
+cluster_id  | nee   |
+containertype_id  | nee   |
+gbd_buurt_code  | nee   |
+gbd_buurt_id  | nee   |
+bag_openbareruimte_id  | nee   |
+bag_hoofdadres_verblijfsobject_id  | nee   |
+bag_nummeraanduiding_id  | nee   |
+container_wijzigingsdatum_dp  | nee   |
+container_verwijderd_dp  | nee   |
+container_ral_kleur_naam  | ja   |
+container_ral_kleur_code  | ja   |
+container_ral_kleur_hexcode  | ja   |
+container_chip_nummber  | ja   |
+container_unit_card_lezer_id  | ja   |
+container_kleur  | ja   |
+container_mark  | ja   |
+container_datum_vervanging  | ja   |
+container_datum_wijziging  | ja   |
+container_end_of_life  | ja   |
+container_eigenaarschap  | ja   |
+container_eigenaarschap_opmerking  | ja   |
+container_opmerking  | ja   |
      
