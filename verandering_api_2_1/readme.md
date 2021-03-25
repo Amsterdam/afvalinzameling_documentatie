@@ -1,4 +1,4 @@
-De huishoudelijk afval API v2.1 wordt uitgebreid met een aantal attributen in de volgende tabellen.
+De huishoudelijk afval API v2.1 is uitgebreid (april 2021) met een aantal attributen in de volgende tabellen.
 - Container
 - Containerlocatie
 - Containertype
