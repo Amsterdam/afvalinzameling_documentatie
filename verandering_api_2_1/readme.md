@@ -7,9 +7,9 @@ container
 
 | container                 | nieuw?   | Containerlocatie | nieuwe? | Containertype | nieuw? |
 |------------------------|----------------|----------------|--------------|-------------|--------------| 
-|container_id            |   nee |        | containerlocatie_id |    nee          |             |              |   
-|container_id_nummer    |       nee       |                            
-|container_serienummer  | nee    |        |                |              |             |              |                 
+|container_id            |   nee |containerlocatie_id         |nee  |             |             |              |   
+|container_id_nummer    |       nee   |containerlocatie_serienummer | nee |  |       |                         
+|container_serienummer  | nee    |containerlocatie_status| nee|              |             |              |                 
 |container_geadopteerd_ind  | nee |        |                |              |             |              |  
 |container_eigenaar_id  | nee     |        |                |              |             |              |  
 container_eigenaar_naam  | nee   |        |                |              |             |              |  
