@@ -1,9 +1,17 @@
-De huishoudelijk afval API v2.1 is uitgebreid (april 2021) met een aantal attributen in de volgende tabellen.
+# De huishoudelijk afval API v2.1 is uitgebreid (april 2021) met een aantal attributen in de volgende tabellen.
+
+## Nieuwe kolommen
+
 - Container
 - Containerlocatie
 - Containertype
 
-container
+## De nieuwe domeinwaardes
+
+- cluster_fractie
+- containertype
+- Container
+- Containerlocatie
 
 | container                 | nieuw?   | Containerlocatie | nieuwe? | Containertype | nieuw? |
 |------------------------|----------------|----------------|--------------|-------------|--------------| 
@@ -47,5 +55,13 @@ container_end_of_life  | ja      |        |                |              |     
 container_eigenaarschap  | ja    |        |                |              |             |              |  
 container_eigenaarschap_opmerking  | ja   |        |                |              |             |              |  
 container_opmerking  | ja        |        |                |              |             |              |  
-     
+ 
+ 
+ ## Nieuwe domeinwaardes                                              
 
+|**containertype**|**cluster_fractie** |**container**|**containerlocatie**      |
+|-----------------|--------------------|-------------|--------------------------|
+|Kerstboom|Kerstboom| Areaalbeheer Amsterdam|Areaalbeheer Amsterdam             |
+|         | SIA Melding        |Amsterdam Dump Locatie|Amsterdam Dump Locatie   |
+|         |Algemene order      |                      |                         |
+|         |                    |                      |                         |
