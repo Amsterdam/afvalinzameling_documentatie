@@ -79,7 +79,7 @@ De onderstaande geeft de indeling van deze klassen weer.
 | -                      | 0                       | 90                    | #327230 |
 | -                      | 90                      | 180                   | #4daf4a |
 | -                      | 180                     | 350                   | #9daf9d |
-| Omslagpunt: 350 M      | 350                     | 370                   | #ff7f00 |
+| Omslagpunt: 350 M      | 350                     | 370                   | #fdbf6f |
 | -                      | 370                     | 480                   | #ff4b00 |
 | -                      | 480                     | 1000                  | #6e6e6e |
 | -                      | null                    | null                  | #cccccc |
